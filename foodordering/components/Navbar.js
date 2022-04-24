@@ -18,7 +18,7 @@ const Navbar = () => {
             <li className={styles.listItem}>Home</li>
             <li className={styles.listItem}>Product</li>
             <li className={styles.listItem}>Menu</li>
-            <Image src="/images/pizza.avif" alt="Pizza" width="100" height="100"/>
+            <h1>Pizzeria</h1>
             <li className={styles.listItem}>Events</li>
             <li className={styles.listItem}>Blog</li>
             <li className={styles.listItem}>Contact</li>
